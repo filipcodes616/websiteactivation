@@ -1,0 +1,3 @@
+1. Di HTML: Beri tag teks tersebut id baru (misal: id="kontak-kami").
+2. Di JS (Kamus): Tambahkan arti bahasa Indonesia dan Inggrisnya di dalam variabel translations.
+3. Di JS (Logika): Panggil ID-nya menggunakan document.getElementById dan masukkan ke dalam fungsi change.
